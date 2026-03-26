@@ -5,6 +5,9 @@ description: "ESRI ArcGIS StoryMaps online workshop videos, January 2021"
 staff:
     - name: Marcel Fortin
       link: https://library.utoronto.ca/staff/marcel-fortin
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2021-03-05
 permalink: "/"  #! Remove this if not the homepage
 ---
